@@ -1,1 +1,1 @@
-FROM golang:1.24.7
+FROM bitnami/golang:1.25.0-debian-12-r0
